@@ -1,0 +1,34 @@
+html {
+scroll-behavior: smooth;
+} 
+body{
+	background: #303030;
+}
+
+h1{
+    color: #fff;
+    font-family: sans-serif;
+}
+h2 {
+	color: #fff;
+	font-family: BlinkMacSystemFont,Arial;
+	line-height: 1.5;
+}
+p{
+	color: #fff;
+	font-family: -apple-system,BlinkMacSystemFont,Arial;
+	line-height: 1.5;
+}
+
+a {
+	color: #987FAE;
+}
+
+.toper{
+	margin: 5%;
+}
+
+.introduction {
+	margin: 10%;
+
+}
