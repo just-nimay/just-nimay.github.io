@@ -12,7 +12,7 @@ h1{
 h2 {
 	color: #fff;
 	font-family: BlinkMacSystemFont,Arial;
-	line-height: 1.5;
+
 }
 p{
 	color: #fff;
@@ -22,13 +22,31 @@ p{
 
 a {
 	color: #987FAE;
+	text-decoration: none;
 }
 
 .toper{
-	margin: 5%;
+
 }
 
-.introduction {
+.links{
+	margin-left: 8%;
+}
+
+.text {
 	margin: 10%;
-
+	margin-top: 0%;
 }
+
+@media screen and (device-width = 720px) {
+	h1 {
+		font-size: 50px;
+	}
+	h2 {
+		font-size: 35px;
+	}
+	p {
+		font-size: 30px;
+	}
+}
+
